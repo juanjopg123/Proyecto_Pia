@@ -71,7 +71,7 @@ Proyecto_Pia/
 Bienvenidos a una experiencia Laravel!
 
 1. Ubicarse en una carpeta en el disco local.
-2. Clonar el proyecto: `git clone https://github.com/juanjoramos/Desarrollo-Web.git`
+2. Clonar el proyecto: `git clone https://github.com/juanjopg123/Proyecto_Pia.git`
 3. Abrir la carpeta: `cd Proyecto_Pia`
 4. Ejecutar: `composer update`
 5. Crear el archivo `.env` (puedes copiarlo desde `.env.example`).
